@@ -1,0 +1,76 @@
+.tarjeta {
+  border: 1px solid transparent;
+}
+
+.tarjeta:hover {
+  border-color: #000;
+}
+
+.tarjeta-imagen {
+  position: relative;
+  background: #eceff1;
+}
+
+.tarjeta-imagen img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.agotado img {
+  opacity: 0.4;
+}
+
+.etiqueta-agotado {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 2px 6px;
+  background: #000;
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.precios {
+  position: absolute;
+  left: 10px;
+  bottom: 0;
+  margin: 0;
+  padding: 2px 4px;
+  background: #fff;
+  font-size: 13px;
+}
+
+.precio {
+  color: #000;
+}
+
+.precio-original {
+  margin-right: 6px;
+  color: #767677;
+  text-decoration: line-through;
+}
+
+.precio-descuento {
+  color: #e32b2b;
+}
+
+.tarjeta-info {
+  padding: 10px 10px 18px;
+  font-size: 14px;
+}
+
+.tarjeta-info h2 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.descripcion,
+.colores {
+  margin: 0;
+  color: #767677;
+}

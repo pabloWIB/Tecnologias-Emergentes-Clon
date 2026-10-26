@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta 3 Rayas adidas Essentials",
+    "descripcion": "Niño Sportswear",
+    "imagen": "/img/productos/camiseta-3-rayas-essentials-jaspeada.png",
+    "precio": 119950,
+    "precioDescuento": 47994,
+    "colores": 5,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "nombre": "Camiseta AEROREADY Estampada",
+    "descripcion": "Niño Sportswear",
+    "imagen": "/img/productos/camiseta-aeroready-estampada.png",
+    "precio": 139950,
+    "precioDescuento": null,
+    "colores": 1,
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Camiseta Local Millonarios FC 2023",
+    "descripcion": "Niño Fútbol",
+    "imagen": "/img/productos/camiseta-local-millonarios-2023.png",
+    "precio": 199950,
+    "precioDescuento": null,
+    "colores": 1,
+    "stock": 2
+  },
+  {
+    "id": 4,
+    "nombre": "Camiseta 3 Rayas adidas Essentials",
+    "descripcion": "Niño Sportswear",
+    "imagen": "/img/productos/camiseta-3-rayas-essentials-negra.png",
+    "precio": 79950,
+    "precioDescuento": null,
+    "colores": 5,
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "nombre": "Camiseta Visitante Selección Colombia Femenina 23",
+    "descripcion": "Niño Fútbol",
+    "imagen": "/img/productos/camiseta-visitante-colombia-femenina-23.png",
+    "precio": 199950,
+    "precioDescuento": null,
+    "colores": 1,
+    "stock": 0
+  },
+  {
+    "id": 6,
+    "nombre": "Camiseta Essentials Tee",
+    "descripcion": "Niño Sportswear",
+    "imagen": "/img/productos/camiseta-essentials-tee.png",
+    "precio": 89950,
+    "precioDescuento": 80056,
+    "colores": 3,
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "nombre": "Camiseta adidas x Classic LEGO®",
+    "descripcion": "Niño Sportswear",
+    "imagen": "/img/productos/camiseta-adidas-classic-lego.png",
+    "precio": 129950,
+    "precioDescuento": null,
+    "colores": 2,
+    "stock": 3
+  },
+  {
+    "id": 8,
+    "nombre": "Camiseta 3 Rayas",
+    "descripcion": "Niño Originals",
+    "imagen": "/img/productos/camiseta-3-rayas-originals.png",
+    "precio": 109950,
+    "precioDescuento": 87992,
+    "colores": 2,
+    "stock": 6
+  },
+  {
+    "id": 9,
+    "nombre": "Camiseta 3 Rayas adidas Essentials",
+    "descripcion": "Niño Sportswear",
+    "imagen": "/img/productos/camiseta-3-rayas-essentials-azul.png",
+    "precio": 79950,
+    "precioDescuento": 63992,
+    "colores": 5,
+    "stock": 10
+  }
+]

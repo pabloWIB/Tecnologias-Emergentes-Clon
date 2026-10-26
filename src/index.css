@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  background: #fff;
+}
+
+.contenedor {
+  max-width: 1580px;
+  margin: 0 auto;
+  padding: 20px 40px;
+}
+
+.titulo {
+  font-size: 32px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.titulo span {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  color: #767677;
+}
+
+.grilla {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2px;
+}
+
+@media (min-width: 768px) {
+  .grilla {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .grilla {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 767px) {
+  .contenedor {
+    padding: 16px 0;
+  }
+
+  .titulo {
+    padding: 0 16px;
+    font-size: 24px;
+  }
+}
