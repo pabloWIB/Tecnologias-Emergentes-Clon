@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Camiseta 3 Rayas adidas Essentials",
+    "nombre": "Camiseta 3 Rayas abibas Essentials",
     "descripcion": "Niño Sportswear",
     "imagen": "/img/productos/camiseta-3-rayas-essentials-jaspeada.png",
     "precio": 119950,
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "nombre": "Camiseta 3 Rayas adidas Essentials",
+    "nombre": "Camiseta 3 Rayas abibas Essentials",
     "descripcion": "Niño Sportswear",
     "imagen": "/img/productos/camiseta-3-rayas-essentials-negra.png",
     "precio": 79950,
@@ -61,9 +61,9 @@
   },
   {
     "id": 7,
-    "nombre": "Camiseta adidas x Classic LEGO®",
+    "nombre": "Camiseta abibas x Classic LEGO®",
     "descripcion": "Niño Sportswear",
-    "imagen": "/img/productos/camiseta-adidas-classic-lego.png",
+    "imagen": "/img/productos/camiseta-abibas-classic-lego.png",
     "precio": 129950,
     "precioDescuento": null,
     "colores": 2,
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "nombre": "Camiseta 3 Rayas adidas Essentials",
+    "nombre": "Camiseta 3 Rayas abibas Essentials",
     "descripcion": "Niño Sportswear",
     "imagen": "/img/productos/camiseta-3-rayas-essentials-azul.png",
     "precio": 79950,
